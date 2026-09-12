@@ -1,3 +1,5 @@
+Privacy Policy
+
 Information We Collect
 Discord IDs: The bot logs and stores unique Discord user IDs to maintain item inventories, device collections, and active trade sessions within devices.json and inventory.json files on local storage.
 Interaction Data: Slash commands, button clicks, modal submissions, and select menu choices are processed temporarily in memory to facilitate gameplay mechanics like catching spawns and trading.
@@ -8,4 +10,4 @@ No personal data, messages, or external account details are harvested, tracked, 
 
 Data Storage & Security
 All user records and inventory data are kept in local JSON databases managed directly by the bot host.
-Because this is a self-hosted or hobby project database, absolute enterprise-grade security cannot be guaranteed, though data is never intentionally exposed or monetized.
+Because this is a self-hosted or project database, absolute enterprise-grade security cannot be guaranteed, though data is never intentionally exposed or monetized.
