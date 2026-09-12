@@ -1,0 +1,16 @@
+Terms of Service
+
+Acceptance of Terms
+By inviting the bot to your server or interacting with its slash commands, buttons, and views, you agree to these terms. If you disagree, do not use the bot.
+
+Bot Usage & Conduct
+The bot is provided as-is for entertainment and collection-game purposes.
+Automated self-bots, API spamming, macro scripts, or exploiting bugs to duplicate items or crash the bot's data storage are strictly prohibited.
+Abuse of system commands may result in data wipes or blacklisting from using the bot.
+
+Service Availability & Data Loss
+There is no uptime guarantee. The bot may experience downtime, restarts, or maintenance updates at any moment.
+Due to the nature of local JSON file storage (inventory.json), server crashes, filesystem corruption, or manual errors can occasionally cause data loss or rollbacks. Inventory items hold no real-world value, and lost data cannot be manually restored or compensated.
+
+Modifications
+Features, drop rates, commands, and inventories may be updated, wiped, or rebalanced at any time without prior notice as development continues.
