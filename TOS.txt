@@ -1,16 +1,29 @@
-Terms of Service
+Terms of Service for PhoneDEX
 
-Acceptance of Terms
-By inviting the bot to your server or interacting with its slash commands, buttons, and views, you agree to these terms. If you disagree, do not use the bot.
+Last updated: October 27, 2026
 
-Bot Usage & Conduct
-The bot is provided as-is for entertainment and collection-game purposes.
-Automated self-bots, API spamming, macro scripts, or exploiting bugs to duplicate items or crash the bot's data storage are strictly prohibited.
-Abuse of system commands may result in data wipes or blacklisting from using the bot.
+By inviting PhoneDEX to your Discord server or using its commands, you agree to these Terms of Service.
 
-Service Availability & Data Loss
-There is no uptime guarantee. The bot may experience downtime, restarts, or maintenance updates at any moment.
-Due to the nature of local JSON file storage (inventory.json), server crashes, filesystem corruption, or manual errors can occasionally cause data loss or rollbacks. Inventory items hold no real-world value, and lost data cannot be manually restored or compensated.
+    Acceptance of Terms
 
-Modifications
-Features, drop rates, commands, and inventories may be updated, wiped, or rebalanced at any time without prior notice as development continues.
+    PhoneDEX provides a virtual mobile device collection, trading, and management system within the Discord platform.
+
+    The service is provided on an "as-is" and "as-available" basis, without warranties of uninterrupted availability or error-free operation.
+
+    User Conduct and Responsibilities
+
+    Users and server administrators agree to use the bot as intended and in compliance with Discord's Terms of Service and Community Guidelines.
+
+    Attempting to exploit economic systems, abuse bot mechanics, or intentionally disrupt bot availability is strictly prohibited.
+
+    Modifications and Termination
+
+    The developers reserve the right to modify, suspend, or terminate the bot (or any part of it) at any time, as well as restrict access for users who violate these terms.
+
+    Limitation of Liability
+
+    The developers of PhoneDEX are not liable for any loss of virtual items, data, or service interruptions caused by technical issues, server crashes, or Discord API changes.
+
+    Contact
+
+    For questions regarding these terms, please reach out via the official PhoneDEX support server.
